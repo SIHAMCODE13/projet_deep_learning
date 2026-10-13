@@ -65,7 +65,7 @@ Les images sources doivent être au format RGB. Le notebook les charge, les norm
 Le modèle DnCNN-Lite utilisé est une version réduite du DnCNN classique, adaptée pour un apprentissage rapide.
 
 Auteur
-SIHAM TALBI & FIRDAWS MASROUR – Projet réalisé dans le cadre du cours de Deep Learning.
+SIHAM TALBI – Projet réalisé dans le cadre du cours de Deep Learning.
 
 Références
 Zhang, K., Zuo, W., Chen, Y., Meng, D., & Zhang, L. (2017). Beyond a Gaussian Denoiser: Residual Learning of Deep CNN for Image Denoising. IEEE Transactions on Image Processing.
